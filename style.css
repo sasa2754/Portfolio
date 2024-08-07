@@ -1,0 +1,25 @@
+body {
+    background-image: url('https://media1.tenor.com/m/18SBZln9s3AAAAAC/black-space-outer-space.gif');
+    color: white;
+}
+
+.centralize {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quadrado {
+    /* background-color: rgba(51, 15, 99, 0.562); */
+    max-width: 99%;
+    width: 2500px;
+    max-height: 90%;
+    height: 900px;
+    padding: 15px;
+}
+
+.fotinhoLinda {
+    border-radius: 50rem;
+    max-width: 70%;
+    width: 500px;
+}
